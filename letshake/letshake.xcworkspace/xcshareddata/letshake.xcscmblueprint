@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8A2FC641E042D256BAE9D8D2ABD82F5EB3F835AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EDB42B705D2549D112D7E755EA26160585B9DC33" : 0,
+    "8A2FC641E042D256BAE9D8D2ABD82F5EB3F835AE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "87B19381-94EC-43B5-9BB1-01DD7879D98D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EDB42B705D2549D112D7E755EA26160585B9DC33" : "Letshake",
+    "8A2FC641E042D256BAE9D8D2ABD82F5EB3F835AE" : "BITBUCKET\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "letshake",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "letshake\/letshake.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/kentphong\/crazy-shake-lite.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A2FC641E042D256BAE9D8D2ABD82F5EB3F835AE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/huynhphongchau\/Letshake.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EDB42B705D2549D112D7E755EA26160585B9DC33"
+    }
+  ]
+}
